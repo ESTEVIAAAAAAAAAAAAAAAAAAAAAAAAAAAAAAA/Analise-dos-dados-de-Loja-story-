@@ -1,6 +1,6 @@
 # 🛍 Análise dos Dados de Loja - Story
 
-Este projeto realiza uma análise de vendas de uma loja fictícia, com foco em:
+Este projeto realiza uma análise de vendas da Loja Story, com foco em:
 
 -  Lucros por produto
 -  Produtos mais vendidos
