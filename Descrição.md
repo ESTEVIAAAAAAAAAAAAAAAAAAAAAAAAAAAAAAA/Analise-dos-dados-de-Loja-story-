@@ -16,7 +16,7 @@ Investigar quais produtos trazem mais retorno para a loja e identificar as filia
 - Agrupamento por cidade para ver as filiais mais rentáveis
 - Análise dos produtos mais vendidos
 - Análise dos produtos com maior receita
-- Gráficos visuais (barras e pizza) para destacar as descobertas
+- Gráficos visuais  para destacar as descobertas
 
 ## Ferramentas utilizadas
 - Python
